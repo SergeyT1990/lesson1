@@ -1,3 +1,3 @@
 function getValue(){
-    return "Привет мир"
+    return "Привет мир";
 }
